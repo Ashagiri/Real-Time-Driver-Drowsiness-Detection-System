@@ -20,7 +20,7 @@ The Real-Time Driver Drowsiness Detection System aims to address this problem by
 * 📡 Real-time monitoring and reporting
 * 💾 Database storage for detected events
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture:
 
 The system follows a four-layer architecture:
 
