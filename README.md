@@ -1,7 +1,12 @@
 # 🚗 Real-Time Driver Drowsiness Detection System
 
 A real-time driver drowsiness detection system that uses computer vision and deep learning techniques to monitor the driver's eye movements and facial features. The system detects signs of fatigue and provides immediate alerts to help prevent road accidents. A Django-based web application enables real-time monitoring, event logging, and dashboard access for administrators, drivers, and vehicle owners.
-a road accidition is very common in the context of nepal road 
+
+# 📖 Overview
+
+Road accidents are a major public safety concern in Nepal. Driver fatigue and drowsiness are among the leading causes of accidents, especially on long-distance routes and highways. Due to limited access to affordable real-time monitoring systems, many fatigue-related incidents go undetected, resulting in injuries and loss of lives.
+
+The Real-Time Driver Drowsiness Detection System aims to address this problem by continuously monitoring the driver's eye movements and facial features using computer vision techniques. When signs of drowsiness are detected, the system immediately generates alerts and records events through a Django-based web application, helping to prevent accidents and enhance road safety.
 
 ## 📌 Features
 
