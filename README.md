@@ -9,7 +9,7 @@ Road accidents are a major public safety concern in Nepal. Driver fatigue and dr
 
 The Real-Time Driver Drowsiness Detection System aims to address this problem by continuously monitoring the driver's eye movements and facial features using computer vision techniques. When signs of drowsiness are detected, the system immediately generates alerts and records events through a Django-based web application, helping to prevent accidents and enhance road safety.
 
-## 📌 Features
+## 📌 Features:
 
 * 👁️ Real-time eye and facial landmark detection
 * 😴 Drowsiness detection using Eye Aspect Ratio (EAR)
