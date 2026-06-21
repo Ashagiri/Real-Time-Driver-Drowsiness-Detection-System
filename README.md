@@ -3,7 +3,7 @@
 
 A real-time driver drowsiness detection system that uses computer vision and deep learning techniques to monitor the driver's eye movements and facial features. The system detects signs of fatigue and provides immediate alerts to help prevent road accidents. A Django-based web application enables real-time monitoring, event logging, and dashboard access for administrators, drivers, and vehicle owners.
 
-# 📖 Overview
+# 📖 Overview:
 
 Road accidents are a major public safety concern in Nepal. Driver fatigue and drowsiness are among the leading causes of accidents, especially on long-distance routes and highways. Due to limited access to affordable real-time monitoring systems, many fatigue-related incidents go undetected, resulting in injuries and loss of lives.
 
