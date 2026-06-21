@@ -128,10 +128,3 @@ python manage.py runserver
 * Support for multiple drivers
 * Machine learning model optimization
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-## 👨‍💻 Authors
-
-Developed as a research and academic project for enhancing road safety through real-time driver fatigue detection.
