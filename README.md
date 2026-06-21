@@ -42,7 +42,7 @@ The system follows a four-layer architecture:
    * Django web application
    * Database storage and dashboard visualization
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 * Python
 * OpenCV
